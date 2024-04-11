@@ -1,0 +1,112 @@
+C:\Users\Пользователь\source\repos\IB_3\IB_3\bin\Debug\IB_3.exe.config
+C:\Users\Пользователь\source\repos\IB_3\IB_3\bin\Debug\IB_3.exe
+C:\Users\Пользователь\source\repos\IB_3\IB_3\bin\Debug\IB_3.pdb
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.exe
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.pdb
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.UserForm.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.StartForm.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.Admin.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.PasswordChange.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.PassLimits.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.AddNewUser.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.PasswordForNew.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.SetPassLims.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.Blocking.resources
+C:\Users\Пользователь\source\repos\IB_3\IB_3\obj\Debug\IB_3.Reliability.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\bin\Debug\IB_3.exe.config
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\bin\Debug\IB_3.exe
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\bin\Debug\IB_3.pdb
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.AssemblyReference.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.AddNewUser.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.Admin.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.Blocking.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.PassLimits.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.PasswordChange.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.PasswordForNew.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.Reliability.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.SetPassLims.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.StartForm.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.UserForm.resources
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.GenerateResource.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.exe
+C:\Users\Дарья\OneDrive\Рабочий стол\УЧЕБА\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.pdb
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\bin\Debug\IB_3.exe.config
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\bin\Debug\IB_3.exe
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\bin\Debug\IB_3.pdb
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.AssemblyReference.cache
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.SuggestedBindingRedirects.cache
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.AddNewUser.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.Admin.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.Blocking.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.PassLimits.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.PasswordChange.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.PasswordForNew.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.Reliability.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.SetPassLims.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.StartForm.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.UserForm.resources
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.GenerateResource.cache
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.csproj.CoreCompileInputs.cache
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.exe
+D:\Тайное неявное\3 курс Часть 1\ИБиЗИ (Труфанов)\IB_3\IB_3\obj\Debug\IB_3.pdb
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.AssemblyReference.cache
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.exe
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.pdb
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.AddNewUser.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.Admin.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.Blocking.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.PassLimits.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.PasswordChange.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.PasswordForNew.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.Reliability.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.StartForm.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.UserForm.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.GenerateResource.cache
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\bin\Debug\IB_3.exe.config
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\bin\Debug\IB_3.exe
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\bin\Debug\IB_3.pdb
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.SetPassLims.resources
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.CoreCompileInputs.cache
+D:\3 курс\ИБИЗИ\IB_3\IB_3\bin\Debug\IB_3.exe.config
+D:\3 курс\ИБИЗИ\IB_3\IB_3\bin\Debug\IB_3.exe
+D:\3 курс\ИБИЗИ\IB_3\IB_3\bin\Debug\IB_3.pdb
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csprojAssemblyReference.cache
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.AddNewUser.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.Admin.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.Blocking.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.PassLimits.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.PasswordChange.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.PasswordForNew.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.Reliability.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.SetPassLims.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.StartForm.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.UserForm.resources
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.GenerateResource.cache
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.CoreCompileInputs.cache
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.exe
+D:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.pdb
+E:\3 курс\ИБИЗИ\IB_3\IB_3\bin\Debug\IB_3.exe.config
+E:\3 курс\ИБИЗИ\IB_3\IB_3\bin\Debug\IB_3.exe
+E:\3 курс\ИБИЗИ\IB_3\IB_3\bin\Debug\IB_3.pdb
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.AddNewUser.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.Admin.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.Blocking.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.PassLimits.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.PasswordChange.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.PasswordForNew.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.Reliability.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.SetPassLims.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.StartForm.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.UserForm.resources
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.GenerateResource.cache
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.CoreCompileInputs.cache
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.exe
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.pdb
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.AssemblyReference.cache
+E:\3 курс\ИБИЗИ\IB_3\IB_3\obj\Debug\IB_3.csproj.SuggestedBindingRedirects.cache

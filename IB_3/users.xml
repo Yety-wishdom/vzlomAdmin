@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<users_table>
+  <users>
+    <name>ADMIN</name>
+    <password>qw</password>
+    <blocking>off</blocking>
+    <password_limitations>-</password_limitations>
+    <password_length>-</password_length>
+  </users>
+  <users>
+    <name>milkis</name>
+    <password>123</password>
+    <blocking>off</blocking>
+    <password_limitations>10</password_limitations>
+    <password_length>4</password_length>
+  </users>
+</users_table>
